@@ -1,0 +1,17 @@
+{
+  "nodeName": "bitcoinblackcrawler.cc",
+  "account": "bcb_1xi6m4igwccwqkokpxcwncahekomkfjgwnmrhumq9g679apr4sdiiwuoees6",
+  "clientUrl": "https://bitcoinblackcrawler.cc",
+  "raiblocksDir": "/home/ryanlefevre/RaiBlocks",
+  "nodeHost": "http://[::1]:15000",
+  "redis": "redis://127.0.0.1:6379",
+  "redisNamespace": "development",
+  "serverPort": 3001,
+  "coinMarketCapApiKey": "f01eb9cc-7991-4161-873c-2e2109115454",
+  "monitorCurrencyName": "bcb",
+  "knownMonitors": [],
+  "blacklistedPeers": [],
+  "officialRepresentatives": [
+    "bcb_1xi6m4igwccwqkokpxcwncahekomkfjgwnmrhumq9g679apr4sdiiwuoees6"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "server": "http://localhost:3001",
+  "websocketServer": "ws.nanocrawler.cc",
+  "donationAddress": "bcb_1xi6m4igwccwqkokpxcwncahekomkfjgwnmrhumq9g679apr4sdiiwuoees6",
+  "currency": {
+    "name": "Bitcoin Black",
+    "shortName": "BCB",
+    "precision": 30,
+    "maxSupply": 133248289,
+    "prefixes": ["cbc", "nano"],
+    "qrPrefix": "cbc",
+    "supportsMyNanoNinja": true
+  },
+  "features": {
+    "nodeStatus": true,
+    "supportedLanguages": {
+      "en": "English",
+      "cs": "Čeština",
+      "da": "Dansk",
+      "de": "Deutsch",
+      "es": "Español",
+      "fr": "Français",
+      "hr": "Hrvatski",
+      "hu": "Magyar",
+      "id": "Bahasa Indonesia",
+      "nl": "Nederlands",
+      "pt-BR": "Português Brasileiro",
+      "el": "Ελληνικά",
+      "ro": "Română",
+      "ru": "Русский",
+      "sv": "Svenska",
+      "zh-CN": "汉语",
+      "zh-TW": "漢語"
+    }
+  },
+  "serviceMonitors": []
+}
